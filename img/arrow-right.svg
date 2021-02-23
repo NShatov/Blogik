@@ -1,6 +1,1 @@
-<svg width="23" height="20" viewBox="0 0 23 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g opacity="0.3">
-<path d="M12 1L21 10L12 19" stroke="#4770A0" stroke-width="2"/>
-<path d="M21 10L0 10" stroke="#4770A0" stroke-width="2"/>
-</g>
-</svg>
+<svg width="23" height="20" fill="none" xmlns="http://www.w3.org/2000/svg"><g opacity=".3" stroke="#4770A0" stroke-width="2"><path d="M12 1l9 9-9 9M21 10H0"/></g></svg>
